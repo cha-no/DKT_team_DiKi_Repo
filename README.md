@@ -5,6 +5,7 @@
 - [프로젝트 소개](#프로젝트-소개)
 - [문제점](#task에서-직면한-문제-및-해결-방안)
 - [Model](#model-architectures)
+- [회고록](#회고록)
 - [최종 리더보드 점수](#최종-리더보드-점수)
 
 
@@ -105,6 +106,8 @@ Riiid에서는 1억개의 Data가 주어졌고, 긴 Sequence로 인한 Transform
 Model Architecture를 아래와 같이 도식화 하였습니다.
 
 ![image](https://user-images.githubusercontent.com/52587290/122212631-08795700-cee3-11eb-96a8-0dec6b949e3a.png)
+
+### [회고록](https://www.notion.so/9053a81a98834557a85bcfd8462c08e3)
 
 ### 최종 리더보드 점수
 
